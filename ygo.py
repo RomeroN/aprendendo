@@ -83,4 +83,4 @@ if pontov1 == 0 and pontov2 != 0:
 elif pontov2 == 0 and pontov1 != 0:
     print("O jogo acabou. O vencedor é o Jogador 1. Parabéns!")
 else:
-    print("O jogo acabou. O resultado é um empaate.")
+    print("O jogo acabou. O resultado é um empate.")
